@@ -1,0 +1,149 @@
+body
+{
+	background-image: url('../img/admin/cream_pixels.png');
+	background-repeat: repeat;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+input, textarea, select, .content_detail
+{
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+button
+{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+}
+
+#header
+{
+	background-color: #111111;
+	padding: 10px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+#header a, #header
+{
+	color: #ffffff;
+}
+
+#header a:hover
+{
+	color: #eeeeee;
+}
+
+.padding_top15
+{
+	padding-top: 15px;
+}
+
+.padding_top20
+{
+	padding-top: 20px;
+}
+
+.fontsize_18
+{
+	font-size: 18px;
+}
+
+.fontsize_50
+{
+	font-size: 50px;
+}
+
+.navbar-inner {
+  min-height: 40px;
+  padding-right: 20px;
+  padding-left: 20px;
+  background-color: #fafafa;
+  background-image: -moz-linear-gradient(top, #ffffff, #f2f2f2);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#f2f2f2));
+  background-image: -webkit-linear-gradient(top, #ffffff, #f2f2f2);
+  background-image: -o-linear-gradient(top, #ffffff, #f2f2f2);
+  background-image: linear-gradient(to bottom, #ffffff, #f2f2f2);
+  background-repeat: repeat-x;
+  border-top: 1px solid #d4d4d4;
+  border-bottom: 1px solid #d4d4d4;
+  /*
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px;
+  */
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff2f2f2', GradientType=0);
+  *zoom: 1;
+  -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+          box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
+}
+
+
+.background1
+{
+	background-color: #ffffff;
+	border-top: 1px solid #e5e5e5;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.content_header
+{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.content_detail
+{
+	font-size: 14px;
+}
+
+.nav-tabs a
+{
+	color: #1a1a1a;
+}
+
+.tab-content
+{
+	background-color: #ffffff;
+	padding: 5px;
+}
+
+.color1
+{
+	color: #aaaaaa;
+}
+
+.required
+{
+	color: #ff0000;
+}
+
+.action_menu
+{
+	background-color: #F0F0F0;
+	border-bottom: 1px solid #e5e5e5;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	-webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+          border-radius: 4px 4px 0px 0px;
+}
+
+.margin_left5
+{
+	margin-left: 5px;
+}
+
+.font1
+{
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+}
+
+#logo
+{
+	padding: 5px;
+}

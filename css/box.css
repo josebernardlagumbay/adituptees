@@ -1,0 +1,22 @@
+/* The bouncing box */
+
+#box{
+	background-color: #fcfcfc;
+	padding:20px;
+	margin-top:-10px;
+	padding-top:30px;
+	width:400px;
+	border:5px solid #4d4d4d;
+	color:#494848;
+	text-shadow:1px 1px 0 white;
+	position: relative;
+	z-index: 10000;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#box
+{
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+}

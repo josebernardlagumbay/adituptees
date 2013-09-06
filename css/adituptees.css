@@ -1,0 +1,186 @@
+body
+{
+	background-image: url('../img/agsquare.png');
+	background-repeat: repeat;
+}
+
+.well_wrapper {
+    background-color: #FFFFFF;
+    border-top: 5px solid #da4f49;
+    border-left: 1px solid #E3E3E3;
+    border-right: 1px solid #E3E3E3;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#cart {
+    background-color: #4F4F4F;
+    border-color: #434343;
+    border-radius: 0 0 5px 5px;
+    margin: 0 10px 0 0;
+    padding: 0 14px 5px 27px;
+    position: relative;
+}
+
+#cart, #cart a
+{
+	color: #ffffff;
+}
+
+.menu1
+{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.content_header, .menu
+{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.content_detail, .btn-danger, button, input, textarea, select
+{
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+.well_menu {
+    background-color: #1B1B1B;
+	padding-left: 20px;
+    padding-right: 20px;
+    /*
+	background-image: linear-gradient(to bottom, #222222, #111111);
+    background-repeat: repeat-x;
+    border-color: #252525;
+	
+	*/
+}
+
+.well_body {
+    background-color: #FFFFFF;
+    border-left: 1px solid #E3E3E3;
+    border-right: 1px solid #E3E3E3;
+    border-radius: 0 0 0 0;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.bar
+{
+	background-color: #FBFBFB;
+	border: 1px #EEEEEE solid;
+	border-radius: 5px;
+}
+
+.bar_header
+{
+	background-color: #484848;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	border-radius: 5px 5px 0 0;
+}
+
+.bar_body
+{
+	border: 1px #EEEEEE solid;
+}
+
+.bar_footer
+{
+	background-color: #da4f49;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	border-radius: 0 0 5px 5px;
+}
+
+.bar_footer_featured
+{
+	background-color: #217ABA;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	border-radius: 0 0 5px 5px;
+}
+
+.bar_footer_new
+{
+	background-color: #13A653;
+	padding-bottom: 7px;
+	padding-top: 7px;
+	border-radius: 0 0 5px 5px;
+}
+
+.color1
+{
+	color: #ffffff;
+}
+
+button
+{
+	border: 0px;
+}
+
+.well_admin {
+    background-color: #4d4d4d;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.well_sale {
+    background-color: #4FB8CB;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    padding-left: 15px;
+    padding-right: 15px;
+	height: 170px;
+}
+
+.well_shipping {
+    background-color: #A3C047;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    padding-left: 15px;
+    padding-right: 15px;
+	height: 170px;
+}
+
+.well_email {
+    background-color: #BD4477;
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+    padding-left: 15px;
+    padding-right: 15px;
+	height: 170px;
+}
+
+.font_size_18
+{
+	font-size: 18px;
+}
+
+.font_size_28px
+{
+	font-size: 28px;
+}
+
+#footer
+{
+	background-image: url('../img/blackorchid.png');
+	background-repeat: repeat;
+	padding: 20px;
+}
+
+.background_color1
+{
+	background-color: #dddddd;
+	padding: 10px;
+}
+
+.required
+{
+	color: #ff0000;
+}

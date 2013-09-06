@@ -1,0 +1,1 @@
+<div class="container">	<div class="row">		<div class="span12 well_body">			<h3 class="content_header">Transaction Response</h3>			<div class="padding_top20">				<div class="alert alert-success">					<?php echo $transaction_message; ?>				</div>			</div>		</div>	</div></div>
